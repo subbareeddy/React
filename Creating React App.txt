@@ -1,0 +1,14 @@
+Creating React App
+   
+  1)create a folder in drive
+  2)Open VS Code and open Folder you Created  Ex: React
+  3)open Terminal and navigate to React command is
+        cd React
+   4)after create a React App In terminal type
+        npx create-react-app app_name
+        Ex:-npx create-react-app basics
+    5)It comes all the files you want any extra files you can create
+
+Note:-
+ You can Installations are Node,React,VS Code
+ In app_name cannot capital leters and spaces 
